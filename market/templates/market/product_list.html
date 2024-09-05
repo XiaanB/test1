@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block title %}Products{% endblock %}
+
+{% block content %}
+    <div class="container mx-auto">
+        <h2 class="text-3xl font-bold mb-4">Products</h2>
+        <a href="{% url 'product-create' %}" class="bg-blue-500 text-white py-2 px-4 rounded hover:bg-blue-600">Add New Product</a>
+        <ul class="mt-4">
+            {% for product in object_list %}
+                <li class="mb-2">
+                    <a href="{% url 'product-detail' product.pk %}" class="text-blue-500 hover:underline">{{ product.product_name }}</a>
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
+{% endblock %}

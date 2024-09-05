@@ -1,0 +1,30 @@
+[
+    {
+        "model": "market.supermarketchain",
+        "pk": 1,
+        "fields": {
+            "chain_name": "New World"
+        }
+    },
+    {
+        "model": "market.supermarketchain",
+        "pk": 2,
+        "fields": {
+            "chain_name": "Countdown"
+        }
+    },
+    {
+        "model": "market.supermarketchain",
+        "pk": 3,
+        "fields": {
+            "chain_name": "Pak n Save"
+        }
+    },
+    {
+        "model": "market.supermarketchain",
+        "pk": 4,
+        "fields": {
+            "chain_name": "Four Square"
+        }
+    }
+]

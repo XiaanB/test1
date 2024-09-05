@@ -1,0 +1,162 @@
+[
+    {
+        "model": "market.store",
+        "pk": 1,
+        "fields": {
+            "store_name": "New World Central City",
+            "store_address": "123 Queen Street",
+            "store_region": "Central",
+            "chain_id": 1
+        }
+    },
+    {
+        "model": "market.store",
+        "pk": 2,
+        "fields": {
+            "store_name": "Countdown Victoria Park",
+            "store_address": "456 Victoria Street",
+            "store_region": "Victoria Park",
+            "chain_id": 2
+        }
+    },
+    {
+        "model": "market.store",
+        "pk": 3,
+        "fields": {
+            "store_name": "Pak n Save Grey Lynn",
+            "store_address": "789 Grey Lynn Road",
+            "store_region": "Grey Lynn",
+            "chain_id": 3
+        }
+    },
+    {
+        "model": "market.store",
+        "pk": 4,
+        "fields": {
+            "store_name": "Four Square Eden Park",
+            "store_address": "101 Eden Park Ave",
+            "store_region": "Eden Park",
+            "chain_id": 4
+        }
+    },
+    {
+        "model": "market.store",
+        "pk": 5,
+        "fields": {
+            "store_name": "New World Wellington City",
+            "store_address": "202 Lambton Quay",
+            "store_region": "CBD",
+            "chain_id": 1
+        }
+    },
+    {
+        "model": "market.store",
+        "pk": 6,
+        "fields": {
+            "store_name": "Countdown Kilbirnie",
+            "store_address": "303 Kilbirnie Crescent",
+            "store_region": "Kilbirnie",
+            "chain_id": 2
+        }
+    },
+    {
+        "model": "market.store",
+        "pk": 7,
+        "fields": {
+            "store_name": "Pak n Save Newtown",
+            "store_address": "404 Newtown Road",
+            "store_region": "Newtown",
+            "chain_id": 3
+        }
+    },
+    {
+        "model": "market.store",
+        "pk": 8,
+        "fields": {
+            "store_name": "Four Square Hataitai",
+            "store_address": "505 Hataitai Road",
+            "store_region": "Hataitai",
+            "chain_id": 4
+        }
+    },
+    {
+        "model": "market.store",
+        "pk": 9,
+        "fields": {
+            "store_name": "New World Christchurch Central",
+            "store_address": "606 Colombo Street",
+            "store_region": "Central",
+            "chain_id": 1
+        }
+    },
+    {
+        "model": "market.store",
+        "pk": 10,
+        "fields": {
+            "store_name": "Countdown Riccarton",
+            "store_address": "707 Riccarton Road",
+            "store_region": "Riccarton",
+            "chain_id": 2
+        }
+    },
+    {
+        "model": "market.store",
+        "pk": 11,
+        "fields": {
+            "store_name": "Pak n Save Hornby",
+            "store_address": "808 Hornby Road",
+            "store_region": "Hornby",
+            "chain_id": 3
+        }
+    },
+    {
+        "model": "market.store",
+        "pk": 12,
+        "fields": {
+            "store_name": "Four Square Sumner",
+            "store_address": "909 Sumner Road",
+            "store_region": "Sumner",
+            "chain_id": 4
+        }
+    },
+    {
+        "model": "market.store",
+        "pk": 13,
+        "fields": {
+            "store_name": "New World Dunedin Central",
+            "store_address": "1010 George Street",
+            "store_region": "Central",
+            "chain_id": 1
+        }
+    },
+    {
+        "model": "market.store",
+        "pk": 14,
+        "fields": {
+            "store_name": "Countdown South Dunedin",
+            "store_address": "1111 King Edward Street",
+            "store_region": "South Dunedin",
+            "chain_id": 2
+        }
+    },
+    {
+        "model": "market.store",
+        "pk": 15,
+        "fields": {
+            "store_name": "Pak n Save Mosgiel",
+            "store_address": "1212 Factory Road",
+            "store_region": "Mosgiel",
+            "chain_id": 3
+        }
+    },
+    {
+        "model": "market.store",
+        "pk": 16,
+        "fields": {
+            "store_name": "Four Square North Dunedin",
+            "store_address": "1313 North Road",
+            "store_region": "North Dunedin",
+            "chain_id": 4
+        }
+    }
+]
