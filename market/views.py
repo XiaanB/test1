@@ -168,6 +168,7 @@ class PriceHistoryListView(ListView):
 
         return queryset
     
+    
 
 class PriceHistoryDetailView(DetailView):
     model = PriceHistory

@@ -85,6 +85,14 @@ DATABASES = {
         'ENGINE': 'django.db.backends.sqlite3',
         'NAME': BASE_DIR / 'db.sqlite3',
     }
+    # 'default': {
+    #     'ENGINE': 'django.db.backends.postgresql',
+    #     'NAME': 'PriceCheck',  # Name of your database
+    #     'USER': 'priceCheck',  # Your database username
+    #     'PASSWORD': 'Whitecliffe2024!',  # Your database password
+    #     'HOST': 'wattz-software-main.cl4aes4gwn31.ap-southeast-2.rds.amazonaws.com',  # The RDS endpoint
+    #     'PORT': '5432',  # PostgreSQL port, default is 5432
+    # }
 }
 
 
